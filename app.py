@@ -64,5 +64,3 @@ data=file,
 file_name="filtered_photo.png",
 mime="image/png"
 )
-else:
-st.info("💡 Standby: Please upload a photo file from your device to activate the image canvas filters.")
